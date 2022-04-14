@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+https://www.npmjs.com/package/particles-bg
+https://dev.to/brandymedia/tailwind-css-contact-form-with-a-node-js-form-handler-part-2-328i
+https://www.geeksforgeeks.org/how-to-use-snackbar-component-in-reactjs/
+https://mui.com/components/buttons/
+https://www.youtube.com/watch?v=T3NHNuD60h4
+https://www.youtube.com/watch?v=dy1xpf5Ugno
+https://www.youtube.com/watch?v=jOviw8Ou_Yk
+https://www.youtube.com/watch?v=fxkBonoU1VA&t=3064s
+https://www.youtube.com/watch?v=SEecAgV1-Ro
+https://www.youtube.com/watch?v=dG_ETBR8viE&t=732s
+https://www.youtube.com/watch?v=xtllpDEOw4w
