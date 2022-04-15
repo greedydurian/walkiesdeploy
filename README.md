@@ -80,3 +80,15 @@ https://www.youtube.com/watch?v=fxkBonoU1VA&t=3064s
 https://www.youtube.com/watch?v=SEecAgV1-Ro
 https://www.youtube.com/watch?v=dG_ETBR8viE&t=732s
 https://www.youtube.com/watch?v=xtllpDEOw4w
+https://www.youtube.com/watch?v=TVb05-_vdSc
+https://stackoverflow.com/questions/62415804/how-to-prevent-netlify-from-treating-warnings-as-errors-because-process-env-ci
+
+docker run --publish 3000:3000 <image name>
+
+1. git remote add github-netlify git@github.com:greedydurian/walkiesdeploy.git
+2. git remote -v
+3. git add .
+4. git status
+5. git push github-netlify master
+6. git remote set-url github-netlify <url>
+7.
