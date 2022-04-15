@@ -89,6 +89,8 @@ docker run --publish 3000:3000 <image name>
 2. git remote -v
 3. git add .
 4. git status
-5. git push github-netlify master
-6. git remote set-url github-netlify <url>
-7.
+5. git commit -m "release!"
+6. git push github-netlify master
+7. git remote set-url github-netlify <url>
+
+netlify
