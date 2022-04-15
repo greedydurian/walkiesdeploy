@@ -8,7 +8,7 @@ import About from './components/pages/About'
 import Disclosure from './components/pages/Disclosure'
 import Offer from './components/pages/Offer'
 import Faq from './components/pages/Faq'
-import Get from "./Get";
+import Get from "./components/Get";
 import Button from '@mui/material/Button';
 
 ReactDOM.render(
