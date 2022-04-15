@@ -8,6 +8,8 @@ import About from './components/pages/About'
 import Disclosure from './components/pages/Disclosure'
 import Offer from './components/pages/Offer'
 import Faq from './components/pages/Faq'
+import Get from "./Get";
+import Button from '@mui/material/Button';
 
 ReactDOM.render(
  <Router>
@@ -18,6 +20,8 @@ ReactDOM.render(
      <Route path='/offer' element={<Offer/>}/>
      <Route path='/disclosure' element={<Disclosure/>}/>
      <Route path='/faq' element={<Faq/>}/>
+     <Route path='/Get' element={<Get/>}/>
+     <Route path='/offer' element={<Button/>}/>
    </Routes>
  </Router>
     ,

@@ -1,6 +1,5 @@
 import React from "react";
 import Button from '@mui/material/Button';
-import { Link } from 'react-router-dom';
 
 const style = {
     background: 'bg-image w-full h-screen bg-cover bg-center flex items-center justify-center',
@@ -18,9 +17,9 @@ const Section = () => {
                 <p className={style.textFontp}>To find out more, click the button below </p>
                
                 <div className='mt-6'>
-                    <Link  to='/offer'><Button variant='outlined' onClick={()=> window.location.href='/offer'}>
+                    <Button variant='outlined' onClick={()=> window.location.href='/offer'}>
                     Click here to find out more!
-                    </Button></Link>
+                    </Button>
                 </div>
             </div>
        
